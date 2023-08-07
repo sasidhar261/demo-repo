@@ -1,1 +1,1 @@
-This is demo
+This is a simple demo
